@@ -1,7 +1,7 @@
 from TransferAttacks.AdaptiveInterdomianEnsemble.base import *
 
 
-class NiVie(Base):
+class NiAie(Base):
     """
     Delving into Transferable Adversarial Examples and Black-box Attacks (ICLR 2017)(https://arxiv.org/abs/1611.02770)
     Official arguments:
